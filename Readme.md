@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Андрей Чернышов](https://up.htmlacademy.ru/ecmascript/12/user/1044067).
-* Наставник: `Неизвестно`.
+* Наставник: `Артур Галимов`.
 
 ---
 
